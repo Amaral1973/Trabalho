@@ -5,4 +5,5 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </div>
-Trabalho da TDS11 - Geek Store
+<br/>
+O desenvolvimento de um sistema de vendas para a Geek Store do seu amigo é um projeto desafiador e gratificante. Em apenas 4 dias, você terá a oportunidade de colocar em prática seus conhecimentos em programação e construir uma ferramenta essencial para o sucesso do negócio.
